@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_cart_shopping_solid"
+        android:id="@+id/main_fragment"
+        android:title="Shopping" />
+
+
+
+
+
+
+
+
+    <item
+        android:icon="@drawable/ic_baseline_search_24"
+        android:id="@+id/search_fragment"
+        android:title="Search">
+
+
+    </item>
+    <item
+        android:id="@+id/favourite_fragment"
+        android:icon="@drawable/filled_heart"
+        android:title="Favourites" />
+
+
+</menu>
